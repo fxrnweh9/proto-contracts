@@ -1,5 +1,4 @@
-module proto-contractsgithub.com/fxrnweh9/proto-contracts
-
+module github.com/fxrnweh9/proto-contracts
 go 1.26.1
 
 require (
