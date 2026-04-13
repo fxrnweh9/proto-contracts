@@ -1,4 +1,4 @@
-module proto-contracts
+module proto-contractsgithub.com/fxrnweh9/proto-contracts
 
 go 1.26.1
 
